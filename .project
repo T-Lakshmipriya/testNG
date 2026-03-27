@@ -22,7 +22,7 @@
 	</natures>
 	<linkedResources>
 		<link>
-			<name>src/test/resources/orangehrm_testscriptdata/orangehrm_recruitment_vaccancy_testdata/vaccan.xlsx</name>
+			<name>src/main/resources/objectrepository/orangehrm_testscriptdata/orangehrm_recruitment_vaccancy_testdata/vaccan.xlsx</name>
 			<type>1</type>
 			<location>C:/Users/senth/OneDrive/vaccan.xlsx</location>
 		</link>
